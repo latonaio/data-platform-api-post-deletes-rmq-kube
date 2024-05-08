@@ -1,0 +1,1 @@
+# data-platform-api-post-deletes-rmq-kube
